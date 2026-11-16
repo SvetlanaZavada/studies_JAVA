@@ -1,4 +1,4 @@
-package Lesson_7_junit_5;
+package Lesson_7_testng;
 
 public class Factorial {
     public long calculate(int n) {

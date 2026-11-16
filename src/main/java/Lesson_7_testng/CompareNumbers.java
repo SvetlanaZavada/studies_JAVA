@@ -1,4 +1,4 @@
-package Lesson_7_junit_5;
+package Lesson_7_testng;
 
 public class CompareNumbers {
     public String compare(int a, int b) {
